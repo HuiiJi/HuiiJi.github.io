@@ -1,3 +1,6 @@
+body {
+  cursor: url("/images/mouse.cur"), auto;
+}
 .sidebar {
   left: -2rem;
   width: 2rem;
